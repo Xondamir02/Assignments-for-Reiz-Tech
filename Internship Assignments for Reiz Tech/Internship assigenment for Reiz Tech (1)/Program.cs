@@ -1,7 +1,10 @@
 ﻿
 Console.WriteLine("You can Enter Hours");
+
 double hours = Convert.ToDouble(Console.ReadLine());
+
 Console.WriteLine("You can Enter Minutes");
+
 double minutes = Convert.ToDouble(Console.ReadLine());
 
 

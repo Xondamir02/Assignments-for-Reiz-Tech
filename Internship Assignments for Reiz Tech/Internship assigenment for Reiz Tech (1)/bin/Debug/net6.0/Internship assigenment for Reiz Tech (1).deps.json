@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Internship assigenment for Reiz Tech (1)/1.0.0": {
+        "runtime": {
+          "Internship assigenment for Reiz Tech (1).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Internship assigenment for Reiz Tech (1)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Internship Assignments for Reiz Tech\Assignment2\Assignment2\bin\Debug\net6.0\Assignment2.exe
+C:\Internship Assignments for Reiz Tech\Assignment2\Assignment2\bin\Debug\net6.0\Assignment2.deps.json
+C:\Internship Assignments for Reiz Tech\Assignment2\Assignment2\bin\Debug\net6.0\Assignment2.runtimeconfig.json
+C:\Internship Assignments for Reiz Tech\Assignment2\Assignment2\bin\Debug\net6.0\Assignment2.dll
+C:\Internship Assignments for Reiz Tech\Assignment2\Assignment2\bin\Debug\net6.0\Assignment2.pdb
+C:\Internship Assignments for Reiz Tech\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.csproj.AssemblyReference.cache
+C:\Internship Assignments for Reiz Tech\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Internship Assignments for Reiz Tech\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.AssemblyInfoInputs.cache
+C:\Internship Assignments for Reiz Tech\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.AssemblyInfo.cs
+C:\Internship Assignments for Reiz Tech\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.csproj.CoreCompileInputs.cache
+C:\Internship Assignments for Reiz Tech\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.dll
+C:\Internship Assignments for Reiz Tech\Assignment2\Assignment2\obj\Debug\net6.0\refint\Assignment2.dll
+C:\Internship Assignments for Reiz Tech\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.pdb
+C:\Internship Assignments for Reiz Tech\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.genruntimeconfig.cache
+C:\Internship Assignments for Reiz Tech\Assignment2\Assignment2\obj\Debug\net6.0\ref\Assignment2.dll
